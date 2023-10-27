@@ -1,0 +1,1 @@
+Roadmap Day 2 task of difference between Windows and Document objects has been completed.
