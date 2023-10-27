@@ -1,0 +1,16 @@
+write a blog on the differece between Document and Windows Objects.
+
+Windows Objects:
+-> windows are referred to Global Objects.
+-> Windows is the first thing that gets loaded in the browser.
+-> The Window Object has the majority properties of length,width,height and parent,etc.
+-> Window.open() opens a new tab or window.
+-> Screen is the window property that that hold information of browser screen.
+
+
+Document Objects:
+-> Each HTML document that gets loaded into awindows called document objects.
+-> The document objects that is HTML,ASPX,PHP or other document will be loaded in the Browser.
+-> This has the properties like Title,Cookies,URL,etc.
+-> Document.open() creats a blank document within a window.
+-> Document Screen can be assesed either by window.screen or Screen object directly.
